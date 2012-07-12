@@ -15,8 +15,9 @@ setup(
     author_email = "adam@matan.name",
     description = ("Some convenient Python boilerplates"),
     license = "GPLv3",
+    #requires = "termcolor",
     keywords = "Python commons",
-    url = "https://github.com/adamatan/pommons",
+    url = "http://packages.python.org/pommons",
     packages=['runner',],
     long_description=read('README.md'),
     classifiers=[

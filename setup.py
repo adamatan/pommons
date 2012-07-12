@@ -18,7 +18,7 @@ setup(
     keywords = "Python commons",
     url = "https://github.com/adamatan/pommons",
     packages=['runner',],
-    long_description=read('README'),
+    long_description=read('README.md'),
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Topic :: Utilities",
